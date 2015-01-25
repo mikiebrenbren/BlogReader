@@ -4,5 +4,21 @@
     <string name="app_name">BlogReader</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="no_items">No items to display!!!!</string>
+
+    <string-array name="array_names">
+        <item>Mike</item>
+        <item>John</item>
+        <item>Carly</item>
+        <item>Aila</item>
+        <item>Patrick</item>
+        <item>Joy</item>
+        <item>Susie</item>
+    </string-array>
 
 </resources>
+
+<!--
+<string name=""></string>
+
+-->

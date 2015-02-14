@@ -5,6 +5,8 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="no_items">No items to display!!!!</string>
+    <string name="error_title"> Ooops</string>
+    <string name="error_message">There was an error getting data for blog</string>
 
     <string-array name="array_names">
         <item>Mike</item>

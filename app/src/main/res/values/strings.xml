@@ -18,9 +18,7 @@
         <item>Susie</item>
     </string-array>
 
-</resources>
+    <string name="title_activity_blog_web_view">BlogPosts</string>
+    <string name="action_share">Share</string>
 
-<!--
-<string name=""></string>
-
--->
+</resources><!-- <string name=""></string> -->

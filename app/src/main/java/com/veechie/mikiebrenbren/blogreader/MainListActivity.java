@@ -75,10 +75,10 @@ public class MainListActivity extends ListActivity {
             JSONObject jsonPost = jsonPosts.getJSONObject(position);
             String blogUrl = jsonPost.getString("url");
 
-            Intent intent = new Intent(Intent.ACTION_VIEW);
+            Intent intent = new Intent(this, BlogWebViewActivity.class);
             intent.setData(Uri.parse(blogUrl));
             startActivity(intent);
-            
+
         } catch (JSONException e) {
             logException(e);
         }
